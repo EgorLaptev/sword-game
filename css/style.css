@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+#gameField {
+    display: block;
+}
+
+#screenRanking,
+#screenStart
+{
+    display: none;
+}
